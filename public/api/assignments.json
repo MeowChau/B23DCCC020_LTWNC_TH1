@@ -1,0 +1,59 @@
+{
+  "message": "Danh sách bài tập mẫu ban đầu",
+  "data": [
+    {
+      "id": "sample-web-01",
+      "course": "Lập trình Web nâng cao",
+      "title": "Student Deadline Tracker",
+      "dueDate": "2026-10-14",
+      "priority": "high",
+      "completed": false,
+      "createdAt": "2026-10-10T08:00:00.000Z"
+    },
+    {
+      "id": "sample-db-01",
+      "course": "Cơ sở dữ liệu",
+      "title": "Thiết kế cơ sở dữ liệu thư viện",
+      "dueDate": "2026-10-11",
+      "priority": "high",
+      "completed": false,
+      "createdAt": "2026-10-08T08:00:00.000Z"
+    },
+    {
+      "id": "sample-network-01",
+      "course": "Mạng máy tính",
+      "title": "Báo cáo phân tích gói tin Wireshark",
+      "dueDate": "2026-10-13",
+      "priority": "medium",
+      "completed": false,
+      "createdAt": "2026-10-09T08:00:00.000Z"
+    },
+    {
+      "id": "sample-web-02",
+      "course": "Lập trình Web nâng cao",
+      "title": "Ôn tập Redux Toolkit và typed hooks",
+      "dueDate": "2026-10-17",
+      "priority": "medium",
+      "completed": false,
+      "createdAt": "2026-10-10T09:00:00.000Z"
+    },
+    {
+      "id": "sample-english-01",
+      "course": "Tiếng Anh chuyên ngành",
+      "title": "Đọc tài liệu và viết tóm tắt",
+      "dueDate": "2026-10-20",
+      "priority": "low",
+      "completed": false,
+      "createdAt": "2026-10-10T10:00:00.000Z"
+    },
+    {
+      "id": "sample-db-02",
+      "course": "Cơ sở dữ liệu",
+      "title": "Bài thực hành truy vấn SQL",
+      "dueDate": "2026-10-10",
+      "priority": "medium",
+      "completed": true,
+      "createdAt": "2026-10-07T08:00:00.000Z"
+    }
+  ]
+}
